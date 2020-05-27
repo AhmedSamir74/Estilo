@@ -1,0 +1,35 @@
+.bgPrimary {
+  background-color: #ffcf01;
+  color: #383b44;
+}
+
+.footerCont {
+  background: #383b44;
+  color: white;
+}
+
+.footerSubTitle {
+  color: #ffcf01;
+}
+
+.footerLink {
+  color: white !important;
+}
+
+.footerIcons * {
+  font-size: xx-large !important;
+  margin: 15px;
+}
+
+.activeIcon {
+  background-color: #ffcf01 !important;
+  color: #383b44 !important;
+  border-radius: 50% !important;
+  margin: 0 !important;
+  display: inline-flex;
+}
+
+.footerLogo {
+  width: 70px;
+  height: 30px;
+}

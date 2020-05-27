@@ -1,0 +1,65 @@
+.navbarCont {
+  background-color: rgba(52, 58, 64, 0.8) !important;
+  border-radius: 10px;
+}
+
+.navigatorCont {
+  background-color: transparent !important;
+}
+
+.cartBadge {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  font-size: 9px;
+  background-color: #ffcf01 !important;
+  color: black;
+}
+
+.searchBtn {
+  padding: 5px !important;
+  background-color: #ffcf01 !important;
+  border-radius: 50% !important;
+  height: 35px !important;
+  width: 35px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.searchInpt {
+  width: 20% !important;
+  margin: 0 15px;
+  border-radius: 25px !important;
+}
+
+.carouselAncor {
+  background-color: white !important;
+  border-radius: 50% !important;
+  display: inline-flex;
+  line-height: 1px;
+  padding: 20px;
+  flex-direction: column;
+  color: black;
+}
+
+.loginLink {
+  color: #ffcf01 !important;
+}
+
+.greyColor {
+  color: rgba(52, 58, 64, 0.8) !important;
+}
+
+.loginHeader {
+  background-color: rgba(52, 58, 64, 0.8) !important;
+  color: white !important;
+}
+
+.loginInptCont * {
+  border-radius: 30px !important;
+}
+
+.btnLogin {
+  border-radius: 30px !important;
+}

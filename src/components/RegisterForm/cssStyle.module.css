@@ -1,0 +1,11 @@
+.loginInptCont * {
+  border-radius: 30px !important;
+}
+
+.btnLogin {
+  border-radius: 30px !important;
+}
+
+.greyColor {
+  color: rgba(52, 58, 64, 0.8) !important;
+}

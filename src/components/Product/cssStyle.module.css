@@ -1,0 +1,11 @@
+.title {
+  left: 20px;
+  bottom: 45px;
+}
+.description {
+  left: 20px;
+  bottom: 5px;
+}
+.catCard {
+  height: 250px !important;
+}

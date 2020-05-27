@@ -1,0 +1,21 @@
+.sliderCont {
+  background: linear-gradient(180deg, #7a7777 65%, #eee 35%);
+}
+
+.primaryColor {
+  color: #ffcf01 !important;
+}
+
+.aboutLetterTitle {
+  border-left: 4px solid #ffcf01;
+  padding-left: 5px;
+}
+
+.subTitleColor {
+  color: #9a9b9d;
+}
+
+.aboutApp {
+  background: linear-gradient(180deg, #6f80ae 90%, #f1f2f6 10%);
+  padding: 20px 0;
+}
